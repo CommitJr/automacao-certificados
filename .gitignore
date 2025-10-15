@@ -1,0 +1,11 @@
+# Pasta onde os certificados gerados são salvos
+certificados/
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos de IDEs
+.vscode/
+.idea/
